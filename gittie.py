@@ -7,5 +7,3 @@ b = int(input("Add a 2nd number:"))
 
 def add (a, b):
     print(a + b)
-
-add(a, b)
