@@ -1,5 +1,11 @@
 def introduce():
+<<<<<<< HEAD
     print("Hello, i'm Michał!")
+=======
+    print(
+        "Hello, i'm Gittie! How are you?"
+        )
+>>>>>>> a5b4500fa5628793fdc6ed20ba40fb444b1f9b0b
 
 
 def joke():
