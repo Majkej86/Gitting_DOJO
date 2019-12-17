@@ -1,6 +1,7 @@
 def introduce():
     print("Hello, i'm Gittie!")
 
+
 def joke():
     print(
         "5. Knock knock. \n"
@@ -9,3 +10,11 @@ def joke():
         "Robin who? \n"
         "Robin you, now hand over the cash. \n"
     )
+
+
+a = int(input("Add a number:"))
+b = int(input("Add a 2nd number:"))
+
+
+def add(a, b):
+    print(a + b)
