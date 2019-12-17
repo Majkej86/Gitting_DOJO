@@ -20,3 +20,7 @@ b = int(input("Add a 2nd number:"))
 
 def add(a, b):
     print(a + b)
+
+
+def shout():
+    print("I'M SHOUTING!!!!!!!!!!!!!")
